@@ -1,0 +1,1 @@
+[2025-04-17 16:35:35] /predict_proba → experience=2, technical_point=100, prediction=Successful
